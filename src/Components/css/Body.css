@@ -1,0 +1,42 @@
+.divs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    border: 2px solid #3498db;
+}
+
+.image {
+    height:500px;
+    width: 500px;
+}
+
+
+
+.button-container {
+    display: flex;
+}
+
+.like, .comment, .share {
+    
+    margin-right: 20px; 
+}
+
+.like {
+   
+    background-color: blue;
+    color: blue;
+}
+
+.comment {
+    
+    background-color: blue;
+    color:blue;
+}
+
+.share {
+   
+    background-color: blue;
+    color: blue;
+}
